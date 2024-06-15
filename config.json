@@ -1,0 +1,8 @@
+{
+    "debug_level":0,
+    "host":"",
+    "port":21,
+    "user":"",
+    "password":"",
+    "local_remote":{"":""}
+}
